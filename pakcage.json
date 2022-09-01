@@ -1,0 +1,14 @@
+[
+  {
+    "package": "nyclodging",
+    "url": "https://github.com/qiushiyan/nyclodging"
+  },
+  {
+    "package": "xkcd",
+    "url": "https://github.com/qiushiyan/xkcd"
+  },
+  {
+    "package": "uuid",
+    "url": "https://github.com/qiushiyan/uuid"
+  }
+]
